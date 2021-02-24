@@ -1,0 +1,47 @@
+<!DOCTYPE>
+<html>
+    <head>
+	<table border = "2", bgcolor = "skyblue", text-align = center>
+        <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+            
+        </head>
+        <body bgcolor=" #73E78E">
+    
+
+    <div>
+    
+        <fieldset>
+            <legend>ENTER THE COUNTRY HERE</legend>
+            <table align="center" border="0">
+                <tr>
+                    <td style="font-size:20px">
+                       Which country you belong to? 
+                    </td>
+                    <td>
+                        <select>
+                            <option>USA</option>
+                            <option>UK</option>
+                            <option>Ukraine</option>
+                            <option>USSR</option>
+                            <option>UAE</option>
+                            <option>India</option>
+                            <option>Indonesia</option>
+                            <option>Australia</option>
+                            <option>Switzerland</option>
+                            <option>Germany</option>
+                            <option>Ireland</option>
+                            <option>Canada</option>
+                            <option>Usbakistan</option>
+                            <option>Japan</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="button" name="submit" value="Submit">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+    </div>
+</body>
+</table>
+</html>
