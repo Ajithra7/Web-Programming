@@ -38,7 +38,7 @@
    </tr>
 
    <?php
-   $I++;
+   $i++;
    }?>
 
    </table>
@@ -46,7 +46,7 @@
    <?php
     }
       else{
-        echo"Np Result found..!";
+        echo"No Result found..!";
           }
     ?>
     <br><br>
